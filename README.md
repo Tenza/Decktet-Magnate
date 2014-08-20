@@ -2,10 +2,12 @@
 
 - This project was made in 2012 and it was developed in Java with NetBeans. 
 - The project itself is in Portuguese, although all the code and comments are in English.
-- The game uses a finite-state machine and the model-view-controller model.
-- The game logic is completely separate from its interface, so the game can be played using the console or GUI. 
+- The game logic is completely separate from its interface, and the game is available to be played in text or GUI (default).
+- The game uses a finite-state machine to control the game flow and model-view-controller to control GUI interaction.
 - The rules of the game can be found [here](http://wiki.decktet.com/game:magnate).
-- You can zoom the board game using CTRL + Scroll. 
+- The cards can be selected and reselected using right click.
+- The tokens can be selected and deselected using right/left/middle clicks. 
+- It is also possible to zoom the board game by pressing CTRL + Scroll. 
 
 ###In Game
 
