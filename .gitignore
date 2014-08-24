@@ -35,5 +35,13 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# NetBeans specific #
+/Decktet - Magnate/nbproject/private/
 /Decktet - Magnate/build/
+/Decktet - Magnate/nbbuild/
 /Decktet - Magnate/dist/
+/Decktet - Magnate/nbdist/
+/Decktet - Magnate/nbactions.xml
+/Decktet - Magnate/nb-configuration.xml
+/Decktet - Magnate/build-impl.xml
